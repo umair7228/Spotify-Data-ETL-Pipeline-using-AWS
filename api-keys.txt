@@ -1,0 +1,1 @@
+https://accounts.spotify.com/authorize?client_id=<client_id>&response_type=code&redirect_uri=https://open.spotify.com/&scope=playlist-read-private
